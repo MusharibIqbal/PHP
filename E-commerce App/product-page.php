@@ -83,7 +83,7 @@
                                 <li><a data-toggle="tab" href="#tab1">Details</a></li>
                             </ul>
                             <div class="tab-content">
-                                <div id="tab1" class="tab-pane fade in active">
+                                <div id="tab1" class="tab-pane fade in active">img
                                     <p>
                                         <?php echo $row['detail'];?>
                                     </p>
