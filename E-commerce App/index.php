@@ -128,7 +128,7 @@
                 <div class="col-md-3 ">
                     <div class="product product-single">
                         <div class="product-thumb">		
-                            <img src="./img/1m.jpg" alt="">
+                            <img src="./img/3m.jpg" alt="">
                         </div>
                         <div class="product-body">
                             <h3 class="product-price">Rs57500 </h3>
@@ -154,7 +154,7 @@
                             <i class="fa fa-star"></i>
                                 <p> 4.5 <p>
                             </div>
-                            <h2 class="product-name"><a href="#">ELectronics</a></h2>
+                            <h2 class="product-name"><a href="#">Washing Machine &nbsp; Whirlpool</a></h2>
                             
                         </div>
                     </div>
@@ -171,7 +171,7 @@
                 <div class="col-md-3 ">
                     <div class="product product-single">
                         <div class="product-thumb">
-                            <img src="./img/product06.jpg" alt="">
+                            <img src="./img/5m.jpg" alt="">
                         </div>
                         <div class="product-body">
                             <h3 class="product-price">Rs. 13000</h3>
@@ -186,7 +186,7 @@
                 <div class="col-md-3">
                     <div class="product product-single">
                         <div class="product-thumb">
-                            <img src="./img/b2.jpg" alt="">
+                            <img src="./img/6m.jpg" alt="">
                         </div>
                         <div class="product-body">
                             <h3 class="product-price">Rs2575</h3>
@@ -194,7 +194,7 @@
                             <i class="fa fa-star"></i>
 <p>4.5</p>
                             </div>
-                            <h2 class="product-name"><a href="#">Laptop harddrive</a></h2>
+                            <h2 class="product-name"><a href="#">Laptop harddrive &nbsp; Brand: Toshiba</a></h2>
                             
                         </div>
                     </div>
@@ -202,7 +202,7 @@
                 <div class="col-md-3">
                     <div class="product product-single">
                         <div class="product-thumb">		
-                            <img src="./img/b3.jpg" alt="">
+                            <img src="./img/7m.jpg" alt="">
                         </div>
                         <div class="product-body">
                             <h3 class="product-price">Rs7700 </h3>
@@ -210,7 +210,7 @@
                             <i class="fa fa-star"></i>
 <p>4.5</p>
                             </div>
-                            <h2 class="product-name"><a href="#">Speakers</a></h2>
+                            <h2 class="product-name"><a href="#">Speakers &nbsp; Brand: Creative</a></h2>
                            
                         </div>
                     </div>
@@ -221,15 +221,15 @@
                             <div class="product-label">
                                
                             </div>
-                            <img src="./img/b4.jpg" alt="">
+                            <img src="./img/8m.jpg" alt="">
                         </div>
                         <div class="product-body">
-                            <h3 class="product-price">Rs32.50</h3>
+                            <h3 class="product-price">Rs4000</h3>
                             <div class="product-rating">
                             <i class="fa fa-star"></i>
 <p>4.5</p>
                             </div>
-                            <h2 class="product-name"><a href="#">AC Adapter</a></h2>
+                            <h2 class="product-name"><a href="#">AC Adapter &nbsp; Brand: HP</a></h2>
                             
                         </div>
                     </div>
