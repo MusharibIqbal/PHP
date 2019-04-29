@@ -38,7 +38,7 @@
     <div class="section">
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
+                <div class="col-md-3">
                     <div class="section-title">
                         <h2 class="title">Fashion</h2>
                     </div>
@@ -91,22 +91,21 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="section-title">
-                        <h2 class="title">Mobiles</h2>
+                        <h2 class="title">Fashion</h2>
                     </div>
                 </div>
                 <div class="col-md-3">
                     <div class="product product-single">
                         <div class="product-thumb">
-                            <button class="main-btn quick-view"><i class="fa fa-search-plus"></i> Quick view</button>
                             <img src="./img/1m.jpg" alt="">
                         </div>
                         <div class="product-body">
-                            <h3 class="product-price">Rs. 1000</h3>
+                            <h3 class="product-price">Rs. 990</h3>
                             <div class="product-rating">
                             <i class="fa fa-star"></i>
                                 <p> 4.5 <p>
                             </div>
-                            <h2 class="product-name"><a href="#">Model:YC &nbsp; Brand: Huwavai</a></h2>    
+                            <h2 class="product-name"><a href="#">Shirt &nbsp; Brand: Levis</a></h2>    
                         </div>
                     </div>
                 </div>
@@ -121,7 +120,7 @@
                             <i class="fa fa-star"></i>
                                 <p> 4.5 <p>
                             </div>
-                            <h2 class="product-name"><a href="#">Model:Y8 &nbsp; Brand: Huwavai</a></h2>
+                            <h2 class="product-name"><a href="#">Trouser &nbsp; Brand: Outfitters</a></h2>
                             
                         </div>
                     </div>
@@ -137,11 +136,11 @@
                             <i class="fa fa-star"></i>
                                 <p> 4.5 <p>
                             </div>
-                            <h2 class="product-name"><a href="#">Model:Y9 &nbsp; Brand: Huwavai</a></h2>
+                            <h2 class="product-name"><a href="#">Tank-Top &nbsp; Breakout</a></h2>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6 col-xs-6">
+                <div class="col-md-3 ">
                     <div class="product product-single">
                         <div class="product-thumb">
                             <div class="product-label">
@@ -150,12 +149,12 @@
                             <img src="./img/4m.jpg" alt="">
                         </div>
                         <div class="product-body">
-                            <h3 class="product-price">Rs32.50</h3>
+                            <h3 class="product-price">Rs3595</h3>
                             <div class="product-rating">
                             <i class="fa fa-star"></i>
                                 <p> 4.5 <p>
                             </div>
-                            <h2 class="product-name"><a href="#">HP laptop</a></h2>
+                            <h2 class="product-name"><a href="#">ELectronics</a></h2>
                             
                         </div>
                     </div>
@@ -166,105 +165,77 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="section-title">
-                        <h2 class="title">Bags</h2>
+                        <h2 class="title">Sports</h2>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6 col-xs-6">
+                <div class="col-md-3 ">
                     <div class="product product-single">
                         <div class="product-thumb">
-                            <button class="main-btn quick-view"><i class="fa fa-search-plus"></i> Quick view</button>
                             <img src="./img/product06.jpg" alt="">
                         </div>
                         <div class="product-body">
-                            <h3 class="product-price">Rs. 1000</h3>
+                            <h3 class="product-price">Rs. 13000</h3>
                             <div class="product-rating">
                                 <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star-o empty"></i>
+                                <p>4.5</p>
                             </div>
-                            <h2 class="product-name"><a href="#">Model:123 &nbsp; Brand: Service</a></h2>
-                            
-                            
+                            <h2 class="product-name"><a href="#"> Model: SP16 &nbsp; Brand: propakistani</a></h2>                            
                         </div>
                     </div>
                 </div>
-                <!-- /Product Single -->
-                <!-- Product Single -->
-                <div class="col-md-3 col-sm-6 col-xs-6">
+                <div class="col-md-3">
                     <div class="product product-single">
                         <div class="product-thumb">
-                            <button class="main-btn quick-view"><i class="fa fa-search-plus"></i> Quick view</button>
                             <img src="./img/b2.jpg" alt="">
                         </div>
                         <div class="product-body">
-                            <h3 class="product-price">Rs32.50 <del class="product-old-price">Rs45.00</del></h3>
+                            <h3 class="product-price">Rs2575</h3>
                             <div class="product-rating">
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star-o empty"></i>
+                            <i class="fa fa-star"></i>
+<p>4.5</p>
                             </div>
-                            <h2 class="product-name"><a href="#">School Bag</a></h2>
+                            <h2 class="product-name"><a href="#">Laptop harddrive</a></h2>
                             
                         </div>
                     </div>
                 </div>
-                <!-- /Product Single -->
-                <!-- Product Single -->
-                <div class="col-md-3 col-sm-6 col-xs-6">
+                <div class="col-md-3">
                     <div class="product product-single">
-                        <div class="product-thumb">
-								
-                            <button class="main-btn quick-view"><i class="fa fa-search-plus"></i> Quick view</button>
+                        <div class="product-thumb">		
                             <img src="./img/b3.jpg" alt="">
                         </div>
                         <div class="product-body">
-                            <h3 class="product-price">Rs32.50 <del class="product-old-price">Rs45.00</del></h3>
+                            <h3 class="product-price">Rs7700 </h3>
                             <div class="product-rating">
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star-o empty"></i>
+                            <i class="fa fa-star"></i>
+<p>4.5</p>
                             </div>
-                            <h2 class="product-name"><a href="#">Bag</a></h2>
+                            <h2 class="product-name"><a href="#">Speakers</a></h2>
                            
                         </div>
                     </div>
                 </div>
-                <!-- /Product Single -->
-                <!-- Product Single -->
-                <div class="col-md-3 col-sm-6 col-xs-6">
+                <div class="col-md-3 ">
                     <div class="product product-single">
                         <div class="product-thumb">
                             <div class="product-label">
                                
                             </div>
-                            <button class="main-btn quick-view"><i class="fa fa-search-plus"></i> Quick view</button>
                             <img src="./img/b4.jpg" alt="">
                         </div>
                         <div class="product-body">
                             <h3 class="product-price">Rs32.50</h3>
                             <div class="product-rating">
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star-o empty"></i>
+                            <i class="fa fa-star"></i>
+<p>4.5</p>
                             </div>
-                            <h2 class="product-name"><a href="#">Travelers Bag</a></h2>
+                            <h2 class="product-name"><a href="#">AC Adapter</a></h2>
                             
                         </div>
                     </div>
                 </div>
-                <!-- /Product Single -->
             </div>
-                <!-- /section -->
-                <!-- FOOTER -->
-             <?php include 'footer.php'; ?>
+             <?php include_once 'footer.php'; ?>
 
 </body>
 
